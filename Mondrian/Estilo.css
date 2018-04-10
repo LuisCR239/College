@@ -1,0 +1,50 @@
+.red{
+	background: red;
+}
+
+.blue{
+	background: blue;
+}
+
+.yellow{
+	background: yellow;
+}
+
+.black{
+	background: black;
+}
+
+.white{
+	background: white;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#Opciones{
+	height:10%; 
+}
+
+#Opciones > h1{
+	text-align: center;
+	font-size: 1em;
+	font-style: italic;
+}
+
+#Opciones > h2{
+	font-size: 1em;
+}
+
+td{
+	background: white;
+	border: black solid 1px;
+}
+
+table{
+	width: 100%;
+	height: 90%;
+}
+
+/*/http://www.compositionwithjavascript.com/*/
